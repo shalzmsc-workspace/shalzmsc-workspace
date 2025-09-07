@@ -1,4 +1,4 @@
-## Hello 🌸 I’m Shalz, glad you’re here.  <img align="right" width="370" height="370" src="https://i.makeagif.com/media/9-07-2025/7yjWGL.gif" >
+## Hello 🌸 I’m Shalz, glad you’re here.  <img align="right" width="200" height="200" src="https://i.makeagif.com/media/9-07-2025/7yjWGL.gif" >
 
 I’m Shalini R, currently pursuing<br> my Master of Science in Computer Science (M.Sc. CS), graduating in 2026,<br> and passionate about technology<br> while looking for opportunities to start my career as a <br>Software Developer.
 
