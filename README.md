@@ -5,8 +5,7 @@ I’m Shalini R, currently pursuing<br> my Master of Science in Computer Science
 - 🔭 Here's my [portfolio](www.linkedin.com/in/shalini-msc-cs-b5046a2ba)                                                 
 - 🌱 I’m currently learning full stack dev
 - ⚡ My favorite time of day is dawn.
-- Social Presence
-<br> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/shalini-msc-cs-b5046a2ba) <br/>
+- Social Presence  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/shalini-msc-cs-b5046a2ba) <br/>
 
 ### I am fell in love with ->
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><br>
@@ -16,7 +15,6 @@ I’m Shalini R, currently pursuing<br> my Master of Science in Computer Science
 
 
 ### My progress  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shalz_Msc?theme=dark&font=Josefin%20Sans)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalzmsc-workspace&bg_color=0c0308&color=d7add4&line=9e4c98&point=c4c0c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Leetcode Stats]![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Mandali)](https://leetcode.com/u/Shalz_Msc/)
-
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shalzmsc-workspace&bg_color=050505&color=ab82a9&line=732c7d&point=bf7cc0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
