@@ -1,8 +1,7 @@
-## Hello 🌸 I’m Shalz, glad you’re here.
+## Hello 🌸 I’m Shalz, glad you’re here.  <img align="right" width="370" height="370" src="https://i.makeagif.com/media/9-07-2025/7yjWGL.gif" >
 
 I’m Shalini R, currently pursuing<br> my Master of Science in Computer Science (M.Sc. CS), graduating in 2026,<br> and passionate about technology<br> while looking for opportunities to start my career as a <br>Software Developer.
 
-<img align="right" width="370" height="290" src="https://i.makeagif.com/media/9-07-2025/7yjWGL.gif" >
 - 🔭 Here's my [portfolio](www.linkedin.com/in/shalini-msc-cs-b5046a2ba)                                                 
 - 🌱 I’m currently learning full stack dev
 - ⚡ My favorite time of day is dawn.
