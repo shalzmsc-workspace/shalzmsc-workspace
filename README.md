@@ -1,7 +1,7 @@
 ## Hello 🌸 I’m Shalz, glad you’re here.
 
 I’m Shalini R, currently pursuing my Master of Science in Computer Science (M.Sc. CS), graduating in 2026, and passionate about technology while looking for opportunities to start my career as a Software Developer.
-<img align="right" width="250" height="250" src="https://jumpshare.com/s/mXn9vC4um7fjvSbkTaTP">
+<img align="right" width="350" height="300" src="https://jumpshare.com/s/mXn9vC4um7fjvSbkTaTP">
 - 🔭 Here's my [portfolio](www.linkedin.com/in/shalini-msc-cs-b5046a2ba)                                                 
 - 🌱 I’m currently learning full stack dev
 - ⚡ My favorite time of day is dawn.
